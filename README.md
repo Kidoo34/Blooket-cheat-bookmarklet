@@ -2,7 +2,8 @@
 
 2.copy the javascript ![image](https://github.com/user-attachments/assets/981f013f-79c6-43b7-a520-63fe1f13a272)
 
-3.make one of these ![image](https://github.com/user-attachments/assets/b609a9b9-9f5e-4518-85ba-1ed57874caec)
+3.make one of these
+![image](https://github.com/user-attachments/assets/b609a9b9-9f5e-4518-85ba-1ed57874caec)
 
 4.after you make one hold it down untill there is a edit option![image](https://github.com/user-attachments/assets/08647c99-3171-41e5-b09a-b93b638445ef)
 
