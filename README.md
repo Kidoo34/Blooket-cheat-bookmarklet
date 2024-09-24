@@ -5,9 +5,9 @@
 3.make one of these
 ![image](https://github.com/user-attachments/assets/b609a9b9-9f5e-4518-85ba-1ed57874caec)
 
-4.after you make one hold it down untill there is a edit option![image](https://github.com/user-attachments/assets/08647c99-3171-41e5-b09a-b93b638445ef)
+4.after you make one hold it down until there is a edit option![image](https://github.com/user-attachments/assets/08647c99-3171-41e5-b09a-b93b638445ef)
 
-5.after you click the edut button this will pop up![image](https://github.com/user-attachments/assets/7fc89828-5e2e-4587-8957-3dc61bc54fca)
+5.after you click the edit button this will pop up![image](https://github.com/user-attachments/assets/7fc89828-5e2e-4587-8957-3dc61bc54fca)
 
 now paste the scipt in the bottom one and delete what ever is in it this only works on pc and ios 
 
